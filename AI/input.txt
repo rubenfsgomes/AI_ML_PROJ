@@ -1,0 +1,10 @@
+Error: I cant close a pop Windows
+Error: My computer is slow
+Error: keys are not responding
+Error: gone
+Error: My computer is infected
+Error: precondition failed
+Error: I cant access gmail
+Error: outlook is down
+Error: cant play mp4 file
+
